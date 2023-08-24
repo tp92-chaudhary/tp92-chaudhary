@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ( Email, IG )
 - 
-  IG id: i.am_programer
+  IG id: i.am_programer                   
   Email : talhaparvaiz92@gmail.com
 <!---
 tp92-chaudhary/tp92-chaudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
