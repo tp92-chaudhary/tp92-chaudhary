@@ -1,11 +1,81 @@
-- 👋 Hi, I’m M.Talha
-- 👀 I’m interested in Web-Development, React, Mern, Data science , ML , Generative AI , NFT and much more
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate whith anyone in need
-- 📫 Email: talhaparvaiz92@gmail.com
-- IG id: i.am_programer    
-<!---
-tp92-chaudhary/tp92-chaudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Software Engineering
+<h1 align="center">Hi 👋, I'm Muhammad Talha Parvaiz</h1>
+<h3 align="center">Software Engineer | MERN Stack Developer | AI & ML Enthusiast</h3>
+
+---
+
+## 🧑‍💻 About Me
+- 🔭 Currently working on **AI Projects & Full Stack Applications**
+- 🤖 Interested in **Machine Learning, NLP, and Generative AI**
+- 🌱 Learning **Advanced Deep Learning & System Design**
+- 💡 Passionate about building **real-world impactful solutions**
+- 📊 Exploring **Data Analytics & AI-driven systems**
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+- Python 🐍
+- JavaScript ⚡
+- SQL 🗄️
+
+### 🌐 Web Development
+- React.js ⚛️
+- Node.js 🚀
+- Express.js
+- HTML5 & CSS3
+
+### 🧠 AI / ML
+- TensorFlow
+- Scikit-learn
+- NLTK
+- OpenAI APIs
+
+### 🛠 Tools & Platforms
+- Git & GitHub
+- Docker
+- Postman
+- VS Code
+
+---
+
+## 📌 Projects
+
+### 🔹 AI Avatar (Wav2Lip + OpenAI)
+- Real-time talking avatar using AI
+- Integrated speech-to-text + text-to-speech
+- Human-like conversation system
+
+### 🔹 Sentiment Analysis System
+- NLP-based movie review classification
+- Data preprocessing using NLTK
+- ML model training & evaluation
+
+### 🔹 CNN Image Classification
+- Trained CNN on CIFAR-10 dataset
+- Improved model accuracy with architecture tuning
+
+### 🔹 MERN Weather App
+- Full-stack app with API integration
+- Real-time weather updates
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: talhaparvaiz92@gmail.com
+- 📱 Phone: 03394010902
+- 💬 WhatsApp: 03244056274
+
+---
+
+## ⚡ Fun Fact
+> I build AI systems that can **talk, see, and understand humans** 🤖🔥
