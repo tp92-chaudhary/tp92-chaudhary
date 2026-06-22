@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Talha Parvaiz</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Talha Parvez</h1>
 <h3 align="center">Software Engineer | MERN Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
